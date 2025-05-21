@@ -58,7 +58,7 @@ h2::before {
     background-color: rgb(244, 79, 79);
     text-align: center;
   }
-@media screen and (max-wigth: 768px) {
+@media screen and (max-width: 768px) {
   h2 {
     font-size: 30px;
   }
